@@ -10,7 +10,7 @@ services:
       - ./.env
   web:
     image: beerbellywell/yamdb_final:latest
-    # build: ../api_yamdb
+    # build: ../api_yamdb/
     restart: always
     volumes:
       - static_value:/app/static/
