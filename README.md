@@ -5,7 +5,7 @@ yamdb_final
 # api_yamdb
 >API Reviews. Через приложение можно читать информацию о разных произведениях, оставлять отзывы и комментарии к отзывам.
 
-Стек: Python v3.9, Django, DRF, postgreSQL, Docker
+Стек: Python v3.9, Django, DRF, postgreSQL, Docker, CI/CD.
 
 #### Как запустить проект:
 
